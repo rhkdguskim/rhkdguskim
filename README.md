@@ -1,21 +1,23 @@
-### Introducing
-- Name 😄 : Kwang Hyeon Kim
-- Language :satisfied: : Javascript, C/C++, Python
+<!-- 헤더 -->
+# Hi there, I'm Kwang Hyeon Kim! 👋
 
+<!-- 소개 -->
+I'm a JavaScript and TypeScript developer passionate about creating awesome web applications.
 
+<!-- 기술 스택 -->
+## Tech Stack
+- JavaScript
+- TypeScript
+- Python
+
+<!-- GitHub 통계 및 알고리즘 문제 해결 -->
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkdguskim&layout=compact&hide=java)](https://github.com/rhkdguskim)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhkdguskim)](https://solved.ac/rhkdguskim)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkdguskim)
-<!--
-**rhkdguskim/rhkdguskim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- 연락처 -->
+## Let's Connect
+- Email: rhkdguskim@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 방문자 카운터 -->
+![Visitor Count](https://profile-counter.glitch.me/rhkdguskim/count.svg)
