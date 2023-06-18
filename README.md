@@ -21,3 +21,6 @@ I'm a JavaScript and TypeScript developer passionate about creating awesome web 
 
 <!-- 방문자 카운터 -->
 ![Visitor Count](https://profile-counter.glitch.me/rhkdguskim/count.svg)
+
+## Tech Blog
+- https://bigkwangs.tistory.com
