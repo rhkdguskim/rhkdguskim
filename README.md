@@ -1,8 +1,5 @@
 <!-- 헤더 -->
-# Hi there, I'm Kwang Hyeon Kim! 👋
-
-<!-- 소개 -->
-I'm a JavaScript and TypeScript developer passionate about creating awesome web applications.
+# 안녕하세요. 매일 공부해서 좋은 개발자가 되고 싶습니다! 👋
 
 <!-- 기술 스택 -->
 ## Tech Stack
