@@ -1,21 +1,10 @@
-<!-- 헤더 -->
-<!-- 기술 스택 -->
-## Tech Stack
-- JavaScript
-- TypeScript
-- Python
+### I'm 김광현 :wave:
 
-<!-- GitHub 통계 및 알고리즘 문제 해결 -->
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkdguskim&layout=compact&hide=java)](https://github.com/rhkdguskim)
+### Tech Stack
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+### Tech Blog
+- https://bigkwangs.tistory.com
+* * *
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhkdguskim)](https://solved.ac/rhkdguskim)
 
-<!-- 연락처 -->
-## Let's Connect
-- Email: rhkdguskim@naver.com
-
-<!-- 방문자 카운터 -->
-![Visitor Count](https://profile-counter.glitch.me/rhkdguskim/count.svg)
-
-## Tech Blog
-- https://bigkwangs.tistory.com
