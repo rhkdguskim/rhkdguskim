@@ -28,9 +28,4 @@ You can read my articles and learnings here:
 - [Bigkwangs's Blog](https://bigkwangs.tistory.com)
 
 ---
-
-<details>
-<summary>🏆 My Solved.ac Profile</summary>
-    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhkdguskim)](https://solved.ac/rhkdguskim)
-</details>
