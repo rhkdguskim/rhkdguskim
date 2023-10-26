@@ -25,7 +25,8 @@
 
 ## :notebook_with_decorative_cover: **Tech Blog**
 You can read my articles and learnings here: 
-- [Bigkwangs's Blog](https://bigkwangs.tistory.com)
+- [Bigkwangs Tistory Blog](https://bigkwangs.tistory.com)
+- [Bigkwangs Tech Blog](https://techblog-d0e3tnefd-rhkdguskim.vercel.app)
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhkdguskim)](https://solved.ac/rhkdguskim)
