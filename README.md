@@ -1,5 +1,4 @@
 # Hello, I'm 김광현! :wave:
-
 안녕하세요, 풀스택 개발자 김광현입니다.
 
 ## :toolbox: **Tech Stack**
@@ -24,9 +23,7 @@
 </table>
 
 ## :notebook_with_decorative_cover: **Tech Blog**
-You can read my articles and learnings here: 
 - [Bigkwangs Tistory Blog](https://bigkwangs.tistory.com)
 - [Bigkwangs Tech Blog](https://techblog-dusky.vercel.app/)
 
----
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhkdguskim)](https://solved.ac/rhkdguskim)
