@@ -18,13 +18,8 @@
 - 손보다 머리로 앞서 생각합니다.
 - 운동을 좋아하고, 팀원들과 적극적으로 의사소통하는것을 좋아합니다.
 
-### 👨‍🎓 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhkdguskim)](https://solved.ac/rhkdguskim)
-
-<div align="center">
-  
 ### :toolbox: **Language**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
@@ -33,12 +28,13 @@
 </p>
 
 ### ▶️ **TechSpec**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </p>
-</div>
 
+### 👨‍🎓 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhkdguskim)](https://solved.ac/rhkdguskim)
