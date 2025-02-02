@@ -11,9 +11,6 @@
   <a href="https://bigkwangs.tistory.com/"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blog&logoColor=white"/></a>
 </p>
 
-### 😄 Introduction.
-저의 장점은 꾸준하고 성실한 것이 장점이고, 문제 해결을 위해서 끊임없이 고민합니다.
-
 ### :toolbox: **Language**
 <p align="left">
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
